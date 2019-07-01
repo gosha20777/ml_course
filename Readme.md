@@ -10,10 +10,10 @@
 
 ## Содержание
 
-1. [Лекция](01/lecture.md)
-   [Практика](01/practice.md)
-2. [Лекция](02/lecture.md)
-   [Практика](02/practice.md)
+1. [Лекция](01/lecture.md) [Практика](01/practice.md)
+2. [Лекция](02/lecture.md) [Практика](02/practice.md)
+3. [Лекция](03/lecture.md)
+4. [Лекция](04/lecture.md) [Практика](04/practice.md)
 
 ## Ссылки
 - [python алгоритсы и структуры данных на Ютуб](https://www.youtube.com/playlist?list=PLVlY_7IJCMJcIWApmupNhBIGkXiYa6m_3)
